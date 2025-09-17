@@ -1,0 +1,4 @@
+shift + l -> establecer region de loop
+https://manual.audacityteam.org/
+ZETA -> Z -> selecciona el 0 más próximo
+ctrl + t -> cropear selecciónn
